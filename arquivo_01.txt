@@ -3,3 +3,5 @@ esse é um arquivo teste criado localmente.
 alteração do arquivo
 
 1ª alteração
+
+alteração 02
